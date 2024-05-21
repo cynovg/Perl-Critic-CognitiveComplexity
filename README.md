@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/otrosien/Perl-Critic-CognitiveComplexity.svg?branch=master)](https://travis-ci.org/otrosien/Perl-Critic-CognitiveComplexity) [![MetaCPAN Release](https://badge.fury.io/pl/Perl-Critic-CognitiveComplexity.svg)](https://metacpan.org/release/Perl-Critic-CognitiveComplexity)
+[![Build Status](https://travis-ci.org/cynovg/Perl-Critic-CognitiveComplexity.svg?branch=master)](https://travis-ci.org/cynovg/Perl-Critic-CognitiveComplexity) [![MetaCPAN Release](https://badge.fury.io/pl/Perl-Critic-CognitiveComplexity.svg)](https://metacpan.org/release/Perl-Critic-CognitiveComplexity)
 # NAME
 
 Perl::Critic::CognitiveComplexity - Cognitive Complexity, Because Testability != Understandability
@@ -11,7 +11,7 @@ SonarSource. See [SonarSource blog entry](https://blog.sonarsource.com/cognitive
 
 ## Rules
 
-- [CognitiveComplexity::ProhibitExcessCognitiveComplexity](https://metacpan.org/pod/Perl::Critic::Policy::CognitiveComplexity::ProhibitExcessCognitiveComplexity) - Avoid code that is nested, and thus difficult to grasp. 
+- [CognitiveComplexity::ProhibitExcessCognitiveComplexity](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3ACognitiveComplexity%3A%3AProhibitExcessCognitiveComplexity) - Avoid code that is nested, and thus difficult to grasp. 
 Examples can be seen in the Policy POD.
 
 ## Configuration
@@ -26,7 +26,7 @@ values as code metrics.
 
 # SEE ALSO
 
-[Perl::Critic](https://metacpan.org/pod/Perl::Critic)
+[Perl::Critic](https://metacpan.org/pod/Perl%3A%3ACritic)
 
 # COPYRIGHT
 

@@ -60,13 +60,15 @@
          "web" : "https://github.com/cynovg/Perl-Critic-CognitiveComplexity"
       }
    },
-   "version" : "0.6",
+   "version" : "v0.6",
    "x_authority" : "cpan:OTROSIEN",
    "x_contributors" : [
+      "Novgorodcev Cyrill <cynovg@gmail.com>",
       "Oliver Trosien <oliver.trosien@zalando.de>",
       "Oliver Trosien <otrosien@epages.com>",
       "Oliver Trosien <otrosien@users.noreply.github.com>",
-      "jonas <jonas@denacode.se>"
+      "jonas <jonas@denacode.se>",
+      "k.novgorodtsev <k.novgorodtsev@vk.team>"
    ],
    "x_serialization_backend" : "JSON::PP version 4.06",
    "x_static_install" : 1
